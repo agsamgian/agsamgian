@@ -47,7 +47,7 @@
         
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 
-<div align="center" >
+<div>
 <a  href="https://github.com/agsamgian">
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=fonderelite&theme=onedark)](https://github.com/fonderelite/github-profile-trophy)
