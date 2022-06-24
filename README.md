@@ -63,6 +63,10 @@
 </a>
 -->
     
+ <img src ="https://github.com/avinash-218/avinash-218/raw/main/Images/social_dashboard.svg" align = "left" width = 50%>
+ 
+
+    
 <h2> Connect with me</h2>
 
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]()
