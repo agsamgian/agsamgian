@@ -47,7 +47,7 @@
         
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 
-div align="center" >
+<div align="center" >
 <a  href="https://github.com/agsamgian">
 
 <img src="https://raw.githubusercontent.com/agsamgian/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
@@ -65,5 +65,3 @@ div align="center" >
 
 <hr></hr>
 
-<img src="https://github.com/agsamgian/agsamgian/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
-<img src="https://github.com/agsamgian/agsamgian/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
