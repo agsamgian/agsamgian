@@ -13,6 +13,6 @@
     <img src="https://img.shields.io/github/issues-pr-raw/agsamgian/agsamgian.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests">
 
-        [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+   
 </p>
-
+     [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
