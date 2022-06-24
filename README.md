@@ -1,6 +1,6 @@
 <img src="banner.gif" width="500px">
 
-<h1 align="center" Hello Iam Gian Paris C. Agsam 👋></h1>
+<h1 align="center">Hello Iam Gian Paris C. Agsam 👋</h1>
 
 <p align="center">
     <a href="https://github.com/agsamgian/agsamgian/commits/master">
