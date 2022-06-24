@@ -50,16 +50,22 @@
 <div align="center" >
 <a  href="https://github.com/agsamgian">
 
-<img src="https://raw.githubusercontent.com/agsamgian/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/agsamgian/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/agsamgian/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+ [![trophy](https://github-profile-trophy.vercel.app/?username=fonderelite&theme=onedark)](https://github.com/fonderelite/github-profile-trophy)
 
+
+## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
+
+![FonderElite's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=FonderElite&show_icons=true&theme=radical)
+![FonderElite's Github Stats](https://github-readme-stats.vercel.app/api?username=FonderElite&show_icons=true&theme=radical)
+<a href="https://github.com/FonderElite/facerecognition">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FonderElite&repo=facerecognition&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
+</a>
 </a>
 
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://raw.githubusercontent.com/agsamgian/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+    # test
 
 </details>
 
