@@ -50,7 +50,7 @@
 <div>
 <a  href="https://github.com/agsamgian">
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=fonderelite&theme=onedark)](https://github.com/fonderelite/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=agsamgian&theme=onedark)](https://github.com/agsamgian/github-profile-trophy)
 
 <!--
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
