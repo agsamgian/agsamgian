@@ -1,4 +1,4 @@
-<img src="banner.gif" width="900px">
+<img src="banner.gif" width="850px">
 
 <h1 align="center">Hello Iam Gian Paris C. Agsam 👋</h1>
 
