@@ -43,9 +43,10 @@
 
 <hr/>
         
- ## Spotify Music 🎵 
         
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="made with markdown badge" />
+ </a>
 
 <div>
 <a  href="https://github.com/agsamgian">
