@@ -47,6 +47,8 @@
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="made with markdown badge" />
  </a>
+ 
+<hr/>
 
 <div>
 <a  href="https://github.com/agsamgian">
