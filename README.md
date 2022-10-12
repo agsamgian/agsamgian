@@ -62,7 +62,7 @@
 </p>
 <hr/>
 
-<div>
+<div align="center">
 <a  href="https://github.com/agsamgian">
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=agsamgian&theme=onedark)](https://github.com/agsamgian/github-profile-trophy)
